@@ -33,4 +33,3 @@ Skills:
 
 [![7roubb's GitHub | Stats](https://stats.quine.sh/7roubb/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=7roubb)
 
-[![7roubb's GitHub | Languages Over Time](https://stats.quine.sh/7roubb/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=7roubb)
