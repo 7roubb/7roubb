@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @7roubb
+- 👋 Hi, I’m Osama Alhroub
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Web Development and Data Science
 - 📫 How to reach me by my email : 7roubb@gmail.com
