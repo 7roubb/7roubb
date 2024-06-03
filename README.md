@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 Skills:
-![image](https://github.com/7roubb/7roubb/assets/153323412/ce9e2f05-effe-448b-9ccb-f7b2bb637c21)
+TypeScript HTML5 CSS3 Sass Bootstrap TailwindCSS Javascript JQuery React Angular git Figma NestJS NodeJS ViteNextJs MongoDB
