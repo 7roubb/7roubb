@@ -27,8 +27,10 @@ Skills:
 <a href="https://www.python.org/" rel="nofollow"><img src="https://github.com/7roubb/7roubb/assets/153323412/419caa5f-f84b-4f22-88a7-b4456b830ffc"  height="36" alt="RabbitMQ" style="max-width: 100%;"></a>
 <a href="https://www.python.org/" rel="nofollow"><img src="https://github.com/7roubb/7roubb/assets/153323412/4abbaa47-5e2d-4867-8cb2-315a28a69eb0"  height="36" alt="Canva" style="max-width: 100%;"></a>
 
-
-
-
-
 </p>
+
+<h2>General Status</h2>
+
+[![7roubb's GitHub | Stats](https://stats.quine.sh/7roubb/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=7roubb)
+
+[![7roubb's GitHub | Languages Over Time](https://stats.quine.sh/7roubb/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=7roubb)
