@@ -25,7 +25,7 @@ Skills:
 <a href="https://www.python.org/" rel="nofollow"><img src="https://github.com/7roubb/7roubb/assets/153323412/efefcbbd-33bb-44aa-b8ff-baf207a87566"  height="36" alt="InfluxDB" style="max-width: 100%;"></a>
 <a href="https://www.python.org/" rel="nofollow"><img src="https://github.com/7roubb/7roubb/assets/153323412/419caa5f-f84b-4f22-88a7-b4456b830ffc"  height="36" alt="RabbitMQ" style="max-width: 100%;"></a>
 <a href="https://www.python.org/" rel="nofollow"><img src="https://github.com/7roubb/7roubb/assets/153323412/4abbaa47-5e2d-4867-8cb2-315a28a69eb0"  height="36" alt="Canva" style="max-width: 100%;"></a>
-<a href="https://www.python.org/" rel="nofollow"><img src="[https://github.com/7roubb/7roubb/assets/153323412/4abbaa47-5e2d-4867-8cb2-315a28a69eb0](https://static-00.iconduck.com/assets.00/java-icon-378x512-w60vlu77.png)"  height="36" alt="JAVA" style="max-width: 100%;"></a>
+<a href="https://www.python.org/" rel="nofollow"><img src="https://static-00.iconduck.com/assets.00/java-icon-378x512-w60vlu77.png"  height="36" alt="JAVA" style="max-width: 100%;"></a>
 
 </p>
 
